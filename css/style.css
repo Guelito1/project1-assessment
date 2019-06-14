@@ -1,0 +1,27 @@
+#displaynum {
+    padding: 15px;
+    text-align: center;
+    margin: 200px 600px 50px 600px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+#buttonandinput {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button, input {
+    margin: 0 20px;
+    padding: 30px;
+    font-size: 20px;
+    text-align: center;
+}
+
+button:hover {
+    background-color: lightgray;
+}
+
